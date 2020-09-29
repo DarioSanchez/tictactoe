@@ -1,1 +1,1 @@
-# tictactoe
+######## Instalacion #######################> cd tictactoe> composer install######## Datos de base de datos ###########models/modelGame.php> $this->host 	= 'localhost';> $this->dbname   = 'tictactoe';> $this->username = 'root';> $this->password = '';##############  Tic Tac Toe version  #########PHP 7.3vuejsvue-resourceaxioshelpersautoloader ( psr4)base de datos tictactoe.sqlvue-toastr-2

@@ -1,0 +1,1 @@
+class Square {    constructor() {        this.value = null;        this.isHightLighted = false;    }}
