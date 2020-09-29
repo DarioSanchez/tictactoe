@@ -18,7 +18,11 @@ class Tictactoe extends ModelGame
         [5,3,7],
         [5,9,1],
         [5,4,3],
-        [5,2,8]
+        [5,2,8],
+        [7,8,9],
+        [7,9,8],
+        [8,7,9],
+        [8,9,7]
         ];
 	/*
 	 * Create activity on database for click in letter

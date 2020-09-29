@@ -11,10 +11,10 @@ new Vue({
   	},
     methods :{
     	refresh(){
-			location.reload();
 			axios.get('app/http/controller/session_destroy.php')
 				.then(response => {
 					this.$toastr.success('Volver a jugar');
+					location.reload();
 
 				}, response => {
 					// error callback
